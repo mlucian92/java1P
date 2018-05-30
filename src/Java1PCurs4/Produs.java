@@ -1,4 +1,4 @@
-package Java1PCurs4;
+package java1PCurs4;
 
 public class Produs {
 	String nume;
@@ -8,6 +8,12 @@ public class Produs {
 		
 		this.nume = nume;
 		this.pret = pret;
+		
+	}
+	
+	@Override
+	public String toString() {
+		return nume;
 		
 	}
 }

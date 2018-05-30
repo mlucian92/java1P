@@ -1,4 +1,4 @@
-package Java1PCurs4;
+package java1PCurs4;
 import java.util.*;
 import java.util.stream.*;
 public class Exemplu3 {
